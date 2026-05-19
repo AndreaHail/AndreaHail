@@ -39,10 +39,6 @@ I am trying my best to become a competent person in this field.
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FF4D6D&height=2"/>
-</p>
-
 ---
 
 <h2 align="center">🌙 Tech Stack</h2>
